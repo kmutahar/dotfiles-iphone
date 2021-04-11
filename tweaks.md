@@ -69,9 +69,7 @@
 | Fouad's Repo | AppData | com.fouadraheb.appdata |  |  |
 | Fouad's Repo | Stalky | com.f0u4d.stalky | com.f0u4d.watusitools<br>com.rpetrich.rocketbootstrap |  |
 | Fouad's Repo | Watusi 2 for WhatsApp | com.fouadraheb.watusi | com.f0u4d.watusitools<br>com.rpetrich.rocketbootstrap<br>applist |  |
-| Ivano Bilenchi's Repo | iCleaner Dark Theme | com.ivanobilenchi.icleanerdarktheme | com.anemonetheming.anemone<br>pincrush |  |
 | iSecureOS Security Repo For iOS | iSecureOS | com.geosn0w.iSecureOS |  |  |
-| Ivano Bilenchi's Repo | iCleaner Dark Theme | com.ivanobilenchi.icleanerdarktheme |  |  |
 | Ivano Bilenchi's Repo | iCleaner Pro | com.exile90.icleanerpro |  |  |
 | Johnzaro's Perfect Repo | AppStoreUpdatesTab | com.johnzaro.appstoreupdatestab13 |  |  |
 | Johnzaro's Perfect Repo | PerfectNetworkSpeedInfo | com.johnzaro.networkspeed13 | com.spark.libsparkapplist<br>com.spark.libsparkcolourpicker |  |
