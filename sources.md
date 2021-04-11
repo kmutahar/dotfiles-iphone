@@ -8,15 +8,22 @@
 | CreatureCodeing Repo | https://creaturecoding.com/repo/ |  |
 | Dynastic Repo | https://repo.dynastic.co/ | Cydia Default Repo |
 | Fouad's Repo | https://apt.fouadraheb.com/ |  |
+| iCaughtU Repo | https://www.icaughtuapp.com/repo/ |  |
+| iSecureOS Security Repo For iOS | https://isecureos.idevicecentral.com/repo/ |  |
 | Ivano Bilenchi's Repo | https://ib-soft.net/cydia/ |  |
 | Johnzaro's Perfect Repo | https://johnzaro.github.io/cydia/ |  |
+| julioverne | https://julioverne.github.io/ |  |
 | MiRO92 | https://miro92.com/repo/ |  |
 | ModMyi (Archive) | http://apt.modmyi.com/ | Cydia Default Repo |
+| Odyssey Repo | https://repo.theodyssey.dev/ |  |
+| p0358's Repo | https://repo.p0358.net/ |  |
 | Packix | https://repo.packix.com/ |  |
 | ReJail Repo | https://rejail.ru/ |  |
 | repo.getsileo.app | https://repo.getsileo.app/ |  |
 | rpetrich | https://rpetri.ch/repo/ |  |
 | Samg_is_a_Ninja's Repo | https://samgisaninja.github.io/ |  |
+| shepgoba's repo | https://shepgobarepo.github.io/ |  |
+| shiftcmdk | https://shiftcmdk.github.io/repo/ |  |
 | TIGI Software | https://tigisoftware.com/cydia/ |  |
 | VerboseBroccoli Repo | https://keshavbabu.github.io/verbose-broccoli/ |  |
 | YouRepo | https://www.yourepo.com/ |  |
