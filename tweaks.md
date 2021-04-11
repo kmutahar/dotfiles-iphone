@@ -1,10 +1,10 @@
 | Source Name | Name | Code | Dependencies | Notes |
 |-|-|-|-|-|
 | Alex Beals | Portrait Lock | com.ryst.portraitlock |  |  |
-| apt.bingner.com | APT | apt |  | Default Tweak |
-| apt.bingner.com | APT | apt-key |  | Default Tweak |
 | apt.bingner.com | APT (lib) | libapt |  | Default Tweak |
 | apt.bingner.com | APT (libapt-pkg) | libapt-pkg5.0 |  | Default Tweak |
+| apt.bingner.com | APT | apt |  | Default Tweak |
+| apt.bingner.com | APT | apt-key |  | Default Tweak |
 | apt.bingner.com | APT 1.4 Transitional | apt1.4 |  | Default Tweak |
 | apt.bingner.com | Assuan | libassuan |  | Default Tweak |
 | apt.bingner.com | Base Structure | base |  | Default Tweak |
@@ -13,8 +13,8 @@
 | apt.bingner.com | Bourne-Again SHell | bash |  | Default Tweak |
 | apt.bingner.com | bzip2 (bzip2) | bzip2 |  | Default Tweak |
 | apt.bingner.com | CA Certs | ca-certificates |  | Default Tweak |
-| apt.bingner.com | Core Utilities | coreutils |  | Default Tweak |
 | apt.bingner.com | Core Utilities (/bin) | coreutils-bin |  | Default Tweak |
+| apt.bingner.com | Core Utilities | coreutils |  | Default Tweak |
 | apt.bingner.com | Cydia Installer | cydia |  | Default Tweak |
 | apt.bingner.com | Cydia Translations | cydia-lproj) |  | Default Tweak |
 | apt.bingner.com | Darwin Tools | darwintools |  | Default Tweak |
