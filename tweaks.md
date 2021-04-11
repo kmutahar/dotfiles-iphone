@@ -64,7 +64,6 @@
 | Chariz | QuitAll | com.daveapps.quitall |  |  |
 | CreatureCodeing Repo | shuffle | com.creaturecoding.shuffle | PreferenceLoader<br>com.creaturecoding.libcspreferences |  |
 | Dynastic Repo | AltDaemon | com.rileytestut.altdaemon |  |  |
-| Dynastic Repo | SettingsWidgets | com.shepgoba.settingswidgets |  |  |
 | Fouad's Repo | AlarmGroups | com.fouadraheb.alarmgroups |  |  |
 | Fouad's Repo | AppData | com.fouadraheb.appdata |  |  |
 | Fouad's Repo | Stalky | com.f0u4d.stalky | com.f0u4d.watusitools<br>com.rpetrich.rocketbootstrap |  |
