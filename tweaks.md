@@ -60,6 +60,7 @@
 | apt.bingner.com | UIKit Tools | uikittools |  | Default Tweak |
 | apt.bingner.com | XZ Utils | xz |  | Default Tweak |
 | ARX8x | System Info | xyz.xninja.systeminfo |  |  |
+| BigBoss | Batchomatic | com.captinc.batchomatic |  |  |
 | BigBoss | tweakCompatible | bz.jed.tweakcompatible |  |  |
 | Chariz | QuitAll | com.daveapps.quitall |  |  |
 | CreatureCodeing Repo | shuffle | com.creaturecoding.shuffle | PreferenceLoader<br>com.creaturecoding.libcspreferences |  |
@@ -69,15 +70,24 @@
 | Fouad's Repo | Stalky | com.f0u4d.stalky | com.f0u4d.watusitools<br>com.rpetrich.rocketbootstrap |  |
 | Fouad's Repo | Watusi 2 for WhatsApp | com.fouadraheb.watusi | com.f0u4d.watusitools<br>com.rpetrich.rocketbootstrap<br>applist |  |
 | Ivano Bilenchi's Repo | iCleaner Dark Theme | com.ivanobilenchi.icleanerdarktheme | com.anemonetheming.anemone<br>pincrush |  |
+| iSecureOS Security Repo For iOS | iSecureOS | com.geosn0w.iSecureOS |  |  |
+| Ivano Bilenchi's Repo | iCleaner Dark Theme | com.ivanobilenchi.icleanerdarktheme |  |  |
 | Ivano Bilenchi's Repo | iCleaner Pro | com.exile90.icleanerpro |  |  |
 | Johnzaro's Perfect Repo | AppStoreUpdatesTab | com.johnzaro.appstoreupdatestab13 |  |  |
 | Johnzaro's Perfect Repo | PerfectNetworkSpeedInfo | com.johnzaro.networkspeed13 | com.spark.libsparkapplist<br>com.spark.libsparkcolourpicker |  |
+| julioverne | BattRate | com.julioverne.battrate |  |  |
 | MiRO92 | Shortmoji 2 | com.miro.shortmoji2 | ws.hbang.common<br>com.creaturesurvive.libcscolorpicker<br>com.miro.libmiro<br>com.miro.libmiroprefs |  |
+| p0358's Repo | PrideBars | net.p0358.pridebars |  |  |
+| Packix | Cr4shed | com.muirey03.cr4shed | com.muirey03.libmryipc<br>com.cokepokes.libnotifications |  |
+| Packix | NotesCreationDate13 | com.gilshahar7.notescreationdate13 |  |  |
 | Packix | PowerSettings | beta.simalary.powersettings |  |  |
 | Packix | QuickMarkup | beta.simalary.quickmarkup |  |  |
 | ReJail Repo | AdBlock++ | ru.rejail.adblockplus |  |  |
+| ReJail Repo | netkillUIbeta (iOS 11) | ru.rejail.netkillui11 | adv-cmds<br>network-cmds<br>gawk |  |
 | repo.getsileo.app | Sileo | org.coolstar.sileo |  |  |
 | Samg_is_a_Ninja's Repo | TweakCompatible for Zebra | com.samgisaninja.tweakcompatible-zebra |  |  |
+| shepgoba's repo | CCRinger13 | com.shepgoba.ccringer13 |  |  |
+| shiftcmdk | NoClipboardForYou | com.shiftcmdk.noclipboardforyou |  |  |
 | TIGI Software | Apps Manager | com.tigisoftware.appdatamanager |  |  |
 | TIGI Software | Filza File Manager 64-bit | com.tigisoftware.filza64bit | zip<br>unzip<br>unrar<br>p7zip |  |
 | VerboseBroccoli Repo | NoRecentFiles | com.agent22922.norecentfiles |  |  |
