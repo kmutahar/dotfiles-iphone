@@ -6,9 +6,11 @@
 | BigBoss | http://apt.thebigboss.org/repofiles/cydia/ | Cydia Default Repo |
 | Chariz | https://repo.chariz.com/ | Cydia Default Repo |
 | CreatureCodeing Repo | https://creaturecoding.com/repo/ |  |
+| Dimitar Nestorov | https://dimitarnestorov.com/ |  |
 | Dynastic Repo | https://repo.dynastic.co/ | Cydia Default Repo |
 | Fouad's Repo | https://apt.fouadraheb.com/ |  |
 | iCaughtU Repo | https://www.icaughtuapp.com/repo/ |  |
+| iDeviceHacked [lovely day to be jailbroken] | https://idevicehacked.com/ | LastUnlock (Not supported by iOS 14 Yet) |
 | iSecureOS Security Repo For iOS | https://isecureos.idevicecentral.com/repo/ |  |
 | Ivano Bilenchi's Repo | https://ib-soft.net/cydia/ |  |
 | Johnzaro's Perfect Repo | https://johnzaro.github.io/cydia/ |  |
