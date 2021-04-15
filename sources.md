@@ -9,6 +9,7 @@
 | Dimitar Nestorov | https://dimitarnestorov.com/ |  |
 | Dynastic Repo | https://repo.dynastic.co/ | Cydia Default Repo |
 | Fouad's Repo | https://apt.fouadraheb.com/ |  |
+| Haoict Repository | https://haoict.github.io/cydia/ |  |
 | iCaughtU Repo | https://www.icaughtuapp.com/repo/ |  |
 | iDeviceHacked [lovely day to be jailbroken] | https://idevicehacked.com/ | LastUnlock (Not supported by iOS 14 Yet) |
 | iSecureOS Security Repo For iOS | https://isecureos.idevicecentral.com/repo/ |  |

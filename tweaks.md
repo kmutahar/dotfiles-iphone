@@ -72,6 +72,12 @@
 | Fouad's Repo | AppData | com.fouadraheb.appdata |  |  |
 | Fouad's Repo | Stalky | com.f0u4d.stalky | com.f0u4d.watusitools<br>com.rpetrich.rocketbootstrap |  |
 | Fouad's Repo | Watusi 2 for WhatsApp | com.fouadraheb.watusi | com.f0u4d.watusitools<br>com.rpetrich.rocketbootstrap<br>applist |  |
+| Haoict Repository | Facebook No Ads | com.haoict.facebooknoads | com.haoict.libhdev |  |
+| Haoict Repository | Instagram No Ads | com.haoict.instanoads | com.haoict.libhdev |  |
+| Haoict Repository | Messenger No Ads | com.haoict.messengernoads | com.haoict.libhdev |  |
+| Haoict Repository | Reddit No Ads | com.haoict.redditnoads |  |  |
+| Haoict Repository | TikTok God | com.haoict.tiktokgod | com.haoict.libhdev |  |
+| Haoict Repository | Twitter No Ads | com.haoict.twitternoads | com.haoict.libhdev |  |
 | iCaughtU Repo | WiFi List | com.itaysoft.wifilist |  |  |
 | iSecureOS Security Repo For iOS | iSecureOS | com.geosn0w.iSecureOS |  |  |
 | Ivano Bilenchi's Repo | iCleaner Pro | com.exile90.icleanerpro |  |  |
