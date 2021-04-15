@@ -1,6 +1,7 @@
 | Source Name | Name | Code | Dependencies | Notes |
 |-|-|-|-|-|
 | Alex Beals | Portrait Lock | com.ryst.portraitlock |  |  |
+| AnthonPax's Repo | QuickCCDismiss | com.anthopak.quickccdismiss |  |  |
 | apt.bingner.com | APT (lib) | libapt |  | Default Tweak |
 | apt.bingner.com | APT (libapt-pkg) | libapt-pkg5.0 |  | Default Tweak |
 | apt.bingner.com | APT | apt |  | Default Tweak |
