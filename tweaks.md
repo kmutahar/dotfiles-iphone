@@ -72,6 +72,7 @@
 | BigBoss | Total Charge Tones | com.ljinc.totalchargetones |  |  |
 | BigBoss | tweakCompatible | bz.jed.tweakcompatible |  |  |
 | Chariz | QuitAll | com.daveapps.quitall |  |  |
+| ConorTheDev's Repo Mirror | peep | me.conorthedev.peep |  |  |
 | CreatureCodeing Repo | shuffle | com.creaturecoding.shuffle | PreferenceLoader<br>com.creaturecoding.libcspreferences |  |
 | Dimitar Nestorov | SearchAutoFocus | com.dimitarnestorov.searchautofocus |  |  |
 | Dynastic Repo | AltDaemon | com.rileytestut.altdaemon |  |  |

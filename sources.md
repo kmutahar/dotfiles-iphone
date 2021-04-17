@@ -7,6 +7,7 @@
 | Arya 06's Repo | https://arya1106.github.io/repo/ |  |
 | BigBoss | http://apt.thebigboss.org/repofiles/cydia/ | Cydia Default Repo |
 | Chariz | https://repo.chariz.com/ | Cydia Default Repo |
+| ConorTheDev's Repo Mirror| https://burrito.software/conor/ | Orginal Repo https://repo.conorthedev.me/ |
 | CreatureCodeing Repo | https://creaturecoding.com/repo/ |  |
 | Dimitar Nestorov | https://dimitarnestorov.com/ |  |
 | Dynastic Repo | https://repo.dynastic.co/ | Cydia Default Repo |
