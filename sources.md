@@ -11,6 +11,7 @@
 | CreatureCodeing Repo | https://creaturecoding.com/repo/ |  |
 | Dimitar Nestorov | https://dimitarnestorov.com/ |  |
 | Dynastic Repo | https://repo.dynastic.co/ | Cydia Default Repo |
+| ETHN's Repo | https://nahtedetihw.github.io/ |  |
 | Fouad's Repo | https://apt.fouadraheb.com/ |  |
 | Haoict Repository | https://haoict.github.io/cydia/ |  |
 | iCaughtU Repo | https://www.icaughtuapp.com/repo/ |  |

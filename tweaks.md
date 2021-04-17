@@ -77,6 +77,8 @@
 | Dimitar Nestorov | SearchAutoFocus | com.dimitarnestorov.searchautofocus |  |  |
 | Dynastic Repo | AltDaemon | com.rileytestut.altdaemon |  |  |
 | Dynastic Repo | Aperio | com.burritoz.aperio |  |  |
+| ETHN's Repo | ReachPlayer | com.nahtedetihw.reachplayer |  |  |
+| ETHN's Repo | SettingsButtons | com.nahtedetihw.settingsbuttons | com.smokin1337.Idrestarthelper |  |
 | Fouad's Repo | AlarmGroups | com.fouadraheb.alarmgroups |  |  |
 | Fouad's Repo | AppData | com.fouadraheb.appdata |  |  |
 | Fouad's Repo | Stalky | com.f0u4d.stalky | com.f0u4d.watusitools<br>com.rpetrich.rocketbootstrap |  |
