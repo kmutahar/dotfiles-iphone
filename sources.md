@@ -4,6 +4,7 @@
 | AnthonPax's Repo | https://repo.anthopak.dev/ |  |
 | apt.bingner.com | https://apt.bingner.com/ | Cydia Default Repo (AKA: Bingner/Elucubratus) |
 | ARX8x | https://apt.arx8x.net/ |  |
+| Arya 06's Repo | https://arya1106.github.io/repo/ |  |
 | BigBoss | http://apt.thebigboss.org/repofiles/cydia/ | Cydia Default Repo |
 | Chariz | https://repo.chariz.com/ | Cydia Default Repo |
 | CreatureCodeing Repo | https://creaturecoding.com/repo/ |  |

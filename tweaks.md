@@ -61,6 +61,8 @@
 | apt.bingner.com | UIKit Tools | uikittools |  | Default Tweak |
 | apt.bingner.com | XZ Utils | xz |  | Default Tweak |
 | ARX8x | System Info | xyz.xninja.systeminfo |  |  |
+| Arya 06's Repo | NappyTime14 | com.arya06.nappytime14 |  |  |
+| Arya 06's Repo | snooze++ | com.arya06.snooze++ |  |  |
 | BigBoss | Batchomatic | com.captinc.batchomatic |  |  |
 | BigBoss | DigitalBattery13 | com.asterix.digitalbattery13 |  |  |
 | BigBoss | tweakCompatible | bz.jed.tweakcompatible |  |  |
