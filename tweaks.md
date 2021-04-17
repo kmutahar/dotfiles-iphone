@@ -64,7 +64,12 @@
 | Arya 06's Repo | NappyTime14 | com.arya06.nappytime14 |  |  |
 | Arya 06's Repo | snooze++ | com.arya06.snooze++ |  |  |
 | BigBoss | Batchomatic | com.captinc.batchomatic |  |  |
+| BigBoss | CCVPN | com.kingpuffdaddi.control-center.ccvpn |  |  |
 | BigBoss | DigitalBattery13 | com.asterix.digitalbattery13 |  |  |
+| BigBoss | Flame | com.aditkamath.flame | org.thebigboss.libcolorpicker |  |
+| BigBoss | House Arrest Fix | com.npupyshev.mobile.house-arrest |  |  |
+| BigBoss | House Arrest Fix | com.npupyshev.mobile.house-arrest |  |  |
+| BigBoss | Total Charge Tones | com.ljinc.totalchargetones |  |  |
 | BigBoss | tweakCompatible | bz.jed.tweakcompatible |  |  |
 | Chariz | QuitAll | com.daveapps.quitall |  |  |
 | CreatureCodeing Repo | shuffle | com.creaturecoding.shuffle | PreferenceLoader<br>com.creaturecoding.libcspreferences |  |
