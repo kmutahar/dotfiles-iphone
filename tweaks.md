@@ -90,6 +90,7 @@
 | Haoict Repository | TikTok God | com.haoict.tiktokgod | com.haoict.libhdev |  |
 | Haoict Repository | Twitter No Ads | com.haoict.twitternoads | com.haoict.libhdev |  |
 | iCaughtU Repo | WiFi List | com.itaysoft.wifilist |  |  |
+| ichitaso | DNDBadges | com.ichitaso.dndbaddges |  |  |
 | iSecureOS Security Repo For iOS | iSecureOS | com.geosn0w.iSecureOS |  |  |
 | Ivano Bilenchi's Repo | iCleaner Pro | com.exile90.icleanerpro |  |  |
 | Johnzaro's Perfect Repo | AppStoreUpdatesTab | com.johnzaro.appstoreupdatestab13 |  |  |

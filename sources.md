@@ -15,6 +15,7 @@
 | Fouad's Repo | https://apt.fouadraheb.com/ |  |
 | Haoict Repository | https://haoict.github.io/cydia/ |  |
 | iCaughtU Repo | https://www.icaughtuapp.com/repo/ |  |
+| ichitaso | https://cydia.ichitaso.com/ |  |
 | iDeviceHacked [lovely day to be jailbroken] | https://idevicehacked.com/ | LastUnlock (Not supported by iOS 14 Yet) |
 | iSecureOS Security Repo For iOS | https://isecureos.idevicecentral.com/repo/ |  |
 | Ivano Bilenchi's Repo | https://ib-soft.net/cydia/ |  |
