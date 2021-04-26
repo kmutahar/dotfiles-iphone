@@ -21,6 +21,7 @@
 | Ivano Bilenchi's Repo | https://ib-soft.net/cydia/ |  |
 | Johnzaro's Perfect Repo | https://johnzaro.github.io/cydia/ |  |
 | julioverne | https://julioverne.github.io/ |  |
+| Litten's Wndercafé ☕️ 🌸 (Stay safe)| https://repo.litten.love/ |  |
 | MiRO92 | https://miro92.com/repo/ |  |
 | ModMyi (Archive) | http://apt.modmyi.com/ | Cydia Default Repo |
 | Odyssey Repo | https://repo.theodyssey.dev/ |  |
